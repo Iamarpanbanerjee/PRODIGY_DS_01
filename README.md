@@ -46,10 +46,10 @@ The project implementation involves the following steps:
 - Title: Population Trend of [Country Name] Over the Years
 
 ### Histograms
-- Histograms are used to visualize the distribution of population data.
-- X-axis: Population
-- Y-axis: Frequency
-- Title: Distribution of Population in [Country Name]
+- Histogram of country count by Income Group 
+- X-axis: Income Group
+- Y-axis: Country Count
+- Title: Distribution of Country Count by Income Group
 
 ### Analysis Based on Country Regions and Income Groups
 - Population trends are analyzed based on country regions and income groups.
