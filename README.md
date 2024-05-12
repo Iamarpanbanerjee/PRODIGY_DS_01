@@ -1,5 +1,4 @@
 # PRODIGY_DS_01
-By Arpan Banerjee
 
 Prodigy Infotech Internship - Data Science (MARCH - APRIL)
 
